@@ -1,6 +1,6 @@
 ![docker image](https://github.com/Pepe-Marquez/nomad-distibution-test/actions/workflows/docker-publish.yml/badge.svg)
 
-# Pepe-Marquez's NOMAD Oasis Distribution
+# Pepe-Marquez's NOMAD Oasis Distribution 
 
 This is the NOMAD Oasis distribution of Pepe-Marquez. 
 Below are instructions for how to [deploy this distribution](#deploying-the-distribution)
